@@ -1,0 +1,1 @@
+This is my Learning JavaScript directory in this repos about my JavaScript programs for testing includes Array , Conditional and Loops.
